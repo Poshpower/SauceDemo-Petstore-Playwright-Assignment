@@ -4,7 +4,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 .vscode
-/allure-results/
-/allure-report/
 .DS_Store
 package-lock.json
