@@ -1,0 +1,52 @@
+{
+  "petData": {
+    "id": 0,
+    "category": {
+      "id": 121,
+      "name": "Dogs"
+    },
+    "name": "Binngo",
+    "photoUrls": [" "],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Fresh"
+      }
+    ],
+    "status": "available"
+  },
+
+  "updatedPetData": {
+    "id": 0,
+    "category": {
+      "id": 121,
+      "name": "Dogs"
+    },
+    "name": "BinngoUpdated",
+    "photoUrls": [" "],
+    "tags": [
+      {
+        "id": 1,
+        "name": "FreshUpdated"
+      }
+    ],
+    "status": "available"
+  },
+
+  "orderRequest": {
+    "id": 5,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "doggie",
+    "photoUrls": [""],
+    "tags": [
+      {
+        "id": 0,
+        "name": "dog"
+      }
+    ],
+    "status": "available"
+  }
+}

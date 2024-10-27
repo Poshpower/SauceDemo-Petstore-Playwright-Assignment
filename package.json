@@ -1,0 +1,17 @@
+{
+  "name": "saucedemo-petstore-playwright-assignment",
+  "version": "1.0.0",
+  "description": "Automated Playwright tests for Sauce Demo's e-commerce UI and Swagger Petstore's API. Includes functional tests for login, product purchase, and pet addition, ensuring core features work correctly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --test-parallel=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.7.8",
+    "allure-playwright": "^3.0.5"
+  }
+}

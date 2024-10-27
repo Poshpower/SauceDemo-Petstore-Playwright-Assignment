@@ -1,0 +1,22 @@
+{
+  "validCredential": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+
+  "wrongUser": {
+    "username": "error_user",
+    "password": "secret_saucet"
+  },
+
+  "lockedOutUser": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+
+  "user": {
+    "firtName": "Mary",
+    "lastName": "Slensor",
+    "postalcode": "11111"
+  }
+}
